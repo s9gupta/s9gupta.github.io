@@ -13,23 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: L'Ami du peuple
-email: jcoenep@hotmail.com
+title: Shivam Gupta
+email: shivam98.tkg@gmail.com
 description: >
   Journal politique impartial, <br>
   Par Mr. P. Marat auteur de l'Offrande a la patrie, <br>
   du Moniteur et du Plan de Constitution, etc.
-tagline: vitam impendere vero
-location: Versailles
+tagline: Hello, nice to meet you
+location: Tikamgarh
 date: true
-baseurl: "/marat" # the subpath of your site, e.g. /blog
-url: "http://johncoene.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: Jean-Paul Marat
+baseurl: "/day" # the subpath of your site, e.g. /blog
+url: "http://s9gupta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: shivam gupta
 google_analytics: UA-101394056-1
 
 # SEO
 twitter:
-  username: jdatap
+  username: ShivamG98665919
 
 logo: /assets/logo.png
 
@@ -39,12 +39,12 @@ facebook:
  app_id: 101766790448070
 
 social:
-  name: John Coene
+  name: Shivam Gupta
   links:
-    - https://twitter.com/jdatap
-    - https://www.linkedin.com/in/johncoene
+    - https://twitter.com/ShivamG98665919
+    - https://www.linkedin.com/in/shivam-gupta-589a1923a/
     - https://plus.google.com/109009224717674019651
-    - https://github.com/JohnCoene
+    - https://github.com/xgupta
 
 # Build settings
 exclude: README.md
